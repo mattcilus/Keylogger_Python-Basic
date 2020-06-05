@@ -1,5 +1,6 @@
 #Python For Ethical Hacking
 #Python Keylogger
+#Studying purpose only
 import pynput
 from pynput.keyboard import Key,Listener
 import datetime
